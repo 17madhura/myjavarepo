@@ -3,6 +3,6 @@
 class myfile
 {
     public static void main(String[] args) {
-        System.out.println("WELCOME to fortune cloud"); 
+        System.out.println("WELCOME to fortune cloud server"); 
     }
 }
